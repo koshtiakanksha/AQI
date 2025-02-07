@@ -1,6 +1,6 @@
 ## Time Series Analysis on Air Quality Index
 
-![AQI](https://csu-ceams.com/blog/content/images/size/w2000/2020/07/aqi_mini-1200x675-1.png)
+![AQI](https://img.freepik.com/premium-vector/air-quality-index-aqi-measurement-air-quality-index-scale-aqi-measurement-technique-air-quality-levels_1156220-134.jpg?w=1380)
 
 This project aims to explore the application of time series analysis in forecasting Air Quality Index (AQI) in Pune, India. 
 
